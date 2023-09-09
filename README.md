@@ -2,7 +2,7 @@
 
 This repository contains code and documentation for a project on Principal Component Analysis (PCA) completed as part of the Applied Linear Algebra course.
 
-##Overview
+## Overview
 
 In this project, we explore the fundamental concept of PCA, a dimensionality reduction technique widely used in data analysis and machine learning. The project is divided into two main sections:
 
